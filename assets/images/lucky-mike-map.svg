@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" rx="8" fill="#F5F5F5"/>
+  <!-- Map background -->
+  <rect x="40" y="40" width="520" height="320" rx="4" fill="#E8E8E8" stroke="#D0D0D0" stroke-width="1"/>
+  <!-- Province outline (simplified BC shape) -->
+  <path d="M120,80 L180,60 L250,70 L320,65 L380,80 L420,100 L440,150 L450,200 L430,260 L400,300 L350,320 L280,330 L200,310 L150,270 L130,200 L110,140 Z" fill="#D4C9A8" stroke="#B0A480" stroke-width="2"/>
+  <!-- Project location marker -->
+  <circle cx="310" cy="200" r="12" fill="#C8960C" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="310" cy="200" r="4" fill="#FFFFFF"/>
+  <!-- Highland Valley marker -->
+  <circle cx="290" cy="185" r="6" fill="#D32F2F" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Labels -->
+  <text x="310" y="230" font-family="Roboto, sans-serif" font-size="11" font-weight="700" fill="#1A1A1A" text-anchor="middle">Lucky Mike</text>
+  <text x="310" y="244" font-family="Roboto, sans-serif" font-size="9" fill="#4A4A4A" text-anchor="middle">7,600+ hectares</text>
+  <text x="265" cy="175" y="175" font-family="Roboto, sans-serif" font-size="8" fill="#D32F2F" text-anchor="middle">Highland Valley</text>
+  <text x="300" y="80" font-family="Roboto, sans-serif" font-size="14" font-weight="600" fill="#1A1A1A" text-anchor="middle">BRITISH COLUMBIA</text>
+  <text x="300" y="96" font-family="Roboto, sans-serif" font-size="10" fill="#4A4A4A" text-anchor="middle">Nicola Mining District</text>
+  <!-- Legend -->
+  <rect x="420" y="280" width="120" height="60" rx="4" fill="#FFFFFF" stroke="#D0D0D0"/>
+  <circle cx="436" cy="298" r="5" fill="#C8960C"/>
+  <text x="448" y="302" font-family="Roboto, sans-serif" font-size="9" fill="#1A1A1A">Lucky Mike</text>
+  <circle cx="436" cy="318" r="4" fill="#D32F2F"/>
+  <text x="448" y="322" font-family="Roboto, sans-serif" font-size="9" fill="#1A1A1A">Major Mine</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2332"/>
+      <stop offset="100%" stop-color="#2d3a4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="500" fill="url(#sky)"/>
+  <!-- Mountains -->
+  <polygon points="0,350 200,180 400,280 600,150 800,250 1000,170 1200,220 1440,300 1440,500 0,500" fill="#1a2a3a" opacity="0.8"/>
+  <polygon points="0,400 300,250 500,320 700,200 900,300 1100,230 1440,350 1440,500 0,500" fill="#0f1a2a" opacity="0.9"/>
+  <!-- Ground -->
+  <rect y="420" width="1440" height="80" fill="#0a1018"/>
+  <!-- Mining elements -->
+  <rect x="600" y="350" width="60" height="70" fill="#2a3a4a"/>
+  <rect x="620" y="330" width="20" height="20" fill="#3a4a5a"/>
+  <polygon points="630,330 680,290 680,330" fill="#2a3a4a"/>
+  <!-- Stars -->
+  <circle cx="200" cy="80" r="1.5" fill="#C8960C" opacity="0.8"/>
+  <circle cx="500" cy="120" r="1" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="800" cy="60" r="1.5" fill="#FFFFFF" opacity="0.5"/>
+  <circle cx="1100" cy="100" r="1" fill="#C8960C" opacity="0.7"/>
+  <circle cx="1300" cy="70" r="1.5" fill="#FFFFFF" opacity="0.4"/>
+  <circle cx="350" cy="150" r="1" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="950" cy="90" r="1" fill="#FFFFFF" opacity="0.5"/>
+</svg>
